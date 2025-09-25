@@ -1,4 +1,4 @@
-![](https://ava.meta.edu.br/faculdade/pluginfile.php/1/theme_moove/logo/1753982804/Logo%20Centro%20Universit%C3%A1rio%20META.png)
+![](https://aluno-meta.phidelis.com.br/Content/img/logoMetaNew.png)
 
 # Aplicativo Ocorrências
 
