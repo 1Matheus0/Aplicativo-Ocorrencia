@@ -3,7 +3,9 @@
 # Aplicativo Ocorrências
 
 **Trabalho integrante do instrumento avaliativo PROJETI**  
+
 **Curso:** Engenharia de Computação 6° Semestre
+
 **Centro Universitário do Meio do Mundo - Meta**
 
 ---
@@ -13,9 +15,9 @@
 | Nome | Email |
 |------|-------|
 | Antonio Victor Maciel Coutinho | [antonio.coutinho@academico.meta.edu.br](mailto:antonio.coutinho@academico.meta.edu.br) |
-|  |  |
-|  |  |
-|  |  |
+| ... | ... |
+| ... | ... |
+| ... | ... |
 
 ---
 
